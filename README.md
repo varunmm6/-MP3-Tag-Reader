@@ -67,7 +67,7 @@ gcc main.c view.c edit.c -o mp3_reader
 - Reading and writing binary files
 - Structures and pointers
 - Command-line argument processing
-- MP3 ID3 metadata handling
+- MP3 ID3V2 metadata handling
 - Debugging and error handling
 
 ## Author
